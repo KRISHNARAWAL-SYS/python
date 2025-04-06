@@ -2,7 +2,7 @@
 age = int(input("enter age :"))
 
 
-if (age > 18):
+if (age >= 18):
     print("can vote ")
     print("can drive")
 elif(age == 18):
@@ -11,4 +11,3 @@ elif(age == 18):
 else :
     print("not eligible")
     
-      
