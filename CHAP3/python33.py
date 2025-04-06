@@ -30,3 +30,4 @@ print(list3)
 
 list3.pop(2)  #removes elemet at index 
 print(list3) 
+
