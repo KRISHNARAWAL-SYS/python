@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/krishna rawal/OneDrive/ドキュメント/GitHub/C-MANIA"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"L1.C": "cpp",
+			"cmath": "cpp",
+			"ostream": "cpp",
+			"chrono": "cpp",
+			"random": "cpp",
+			"limits": "cpp",
+			"valarray": "cpp",
+			"LinSEARCH.C": "cpp",
+			"BinSEARCH.C": "cpp",
+			"bubblesort.C": "cpp",
+			"IsertionaSort.C": "cpp",
+			"MergeSort.C": "cpp",
+			"QuickSort.C": "cpp",
+			"InsertionaSort.C": "cpp"
+		}
+	}
+}
