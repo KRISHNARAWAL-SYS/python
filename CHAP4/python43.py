@@ -6,8 +6,8 @@ student = {
         "phy" : 87,
         "chem" : 83,
         "math"  : 94,
-        }
 }
+        }
 
 #1.
 print(student.keys())
@@ -26,8 +26,8 @@ print(student["name"])
 #same
 
 #here is the difference
-#print(student.get("name2")) # error
-#print(student["name2"])     # ---> none
+#print(student.get("name2")) # returns None
+#print(student["name2"])     # returns error
 
 #5.
 new_dict = {"city" : "delhi" , "state" : "rajs" }
