@@ -11,14 +11,14 @@ student = {
 
 #1.
 print(student.keys())
-p
+print(student["subject"].keys())
 print(list(student.keys()))  #to print keys in list
 
 #2.
 print(student.values())
 
 #3.
-print(student.items())  #
+print(student.items())  # return a list of(key , value) tuple pairs
 
 #4.
 print(student.get("name"))
