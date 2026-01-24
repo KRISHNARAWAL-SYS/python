@@ -17,7 +17,7 @@ print(list2)
 list2.reverse()
 print(list2)
 
-#most imp insert
+#most imp insert  
 
 list.insert(0 , 2)
 list2.insert(2,"hello")

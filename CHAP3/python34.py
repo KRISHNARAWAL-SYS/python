@@ -12,7 +12,7 @@ print(tup[3])
 tup0 = (  )    #is a valid tuple
 tup1 = (1,)    # is a valid tuple
 tup2 = (2)     #invalid   interpreter read it as integer
-print(type(tup0))
+print(type(tup0)) 
 print(type(tup1))
 print(type(tup2))
 

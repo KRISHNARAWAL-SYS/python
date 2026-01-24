@@ -13,3 +13,5 @@ print(data)
 print(data["name"])
 data["name"] = "stpaul"
 print(data["name"])
+print(data['age'])
+data["age"]
