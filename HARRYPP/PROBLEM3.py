@@ -6,4 +6,4 @@ print(name.find(" a"))
 #problem4
 #replace double spacec with single space 
 
-print(name.replace("  " , " "))
+print(name.replace(" " , "  "))
