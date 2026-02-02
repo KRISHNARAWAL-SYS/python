@@ -15,3 +15,6 @@ for i in range(1, n+1):
     for k in range(2*i - 1):      # print 2*i-1 stars in ith row
         print("*", end="")
     print("")               # move to next line
+    
+    
+
