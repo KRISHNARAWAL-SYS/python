@@ -1,5 +1,4 @@
-
-f = open("myfile.txt","r")
-data = f.read()
-print(data)
+string = "krishna is hero"
+f = open("file.txt","w")
+f.write(string)
 f.close()
