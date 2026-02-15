@@ -2,7 +2,8 @@ class employee :
     language = "python" # this is a class attribute
     salary = 120000
     
-    def getInfo():  
+    
+        
     
 harry = employee ()
 harry.language = "C++"    # instance attribute has precedance over class attribute
