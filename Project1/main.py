@@ -30,5 +30,5 @@ else:
     elif(computer == 0 and you==-1):
         print("you win") 
         
-    else: 
+    else:                       #this else is for handling the case when user enters wrong input
         print("something went wrong")
